@@ -1,2 +1,2 @@
 Hello,Word!!
-This is available in master branch.
+This is available in little-feature branch.
